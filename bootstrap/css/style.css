@@ -1,0 +1,30 @@
+/* Customized Buttons */
+
+.btn-primary,
+.bg-primary {
+  background: linear-gradient(45deg, darkorange, purple);
+}
+.btn-secondary,
+.bg-secondary {
+  background: linear-gradient(45deg, darkorange, red);
+}
+.btn-success,
+.bg-success {
+  background: linear-gradient(45deg, darkorange, green);
+}
+.btn-danger,
+.bg-danger {
+  background: linear-gradient(45deg, black, aqua);
+}
+.btn-light,
+.bg-light {
+  background: linear-gradient(45deg, darkslategray, gray);
+}
+.btn-dark,
+.bg-dark {
+  background: linear-gradient(45deg, darkslategray, black);
+}
+.btn-info,
+.bg-info {
+  background: linear-gradient(45deg, darkorange, black);
+}
